@@ -50,6 +50,6 @@ body {
   background-color: lightblue;
   background-image: url("/images/kubernetesLogo.png");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center bottom;
   background-attachment: fixed;
 }
