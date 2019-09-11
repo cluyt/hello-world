@@ -48,7 +48,7 @@ a:active {
 
 body {
   background-color: lightblue;
-  background-image: "/images/kubernetesLogo.png";
+  background-image: url("/images/kubernetesLogo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
